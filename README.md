@@ -16,3 +16,4 @@ A Python-based GUI application for scraping and organizing content from WordPres
 1. Clone the repository:
 2. cd into the main repertory
 3. run with python main.py
+4. results (.txt & .json) go into a outputs folder that gets autocreted in the main folder.
