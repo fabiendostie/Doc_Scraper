@@ -13,4 +13,6 @@ A Python-based GUI application for scraping and organizing content from WordPres
 
 ## Installation
 
-1. Clone the repository: 
+1. Clone the repository:
+2. cd into the main repertory
+3. run with python main.py
